@@ -1,0 +1,281 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.flower-col{
+    background-color: #fdeaee;
+    height: 88vh;
+}
+.flowering-heading-part{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 150px;
+}
+.flw-ima{
+    width: 520px;
+}
+.flower-images{
+    
+} 
+.flower-head-text{
+    font-size: 65px;
+    line-height: 2.2ch;
+    font-weight: 600;
+    color: #2f2f2f;
+    margin-bottom: 0;
+}
+.flower-pra{
+    font-size: 16px;
+    color: #837f7f;
+    margin-top: 30px;
+    margin-bottom: 0;
+    line-height: 3ch;
+}
+.btn-button{
+    padding: 16px 25px;
+    background-color: #E55473;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    color: white;
+}
+/* The flower header is done */
+.opshonal-text{
+    text-align: center;
+    margin-top: 130px
+}
+.op-text-title{
+    font-size: 35px;
+    color: #343434;
+    margin-bottom: 0;
+}
+.op-text-pra{
+    font-size: 16px;
+    color: #837f7f;
+    margin-top: 25px;
+    line-height: 3ch;
+}
+.disien-box1{
+    width: 400px;
+    height: 400px;
+    background-color: #fcd5e8;
+    background-image: url('./Flower\ Asset/pngwing 6.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 20px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.disien-box2{
+    width: 400px;
+    height: 400px;
+    background-color: #dbf6f8;
+    background-image: url('./Flower\ Asset/pngwing 5.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 20px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.disien-box3{
+    width: 400px;
+    height: 400px;
+    background-color: #dcefc9;
+    background-image: url('./Flower\ Asset/pngwing 7.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 20px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.there-box{
+    margin: 50px 200px;
+    display: flex;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 430px;
+}
+/* The flower first section is done */
+
+.flower-icon-images{
+    display: flex;
+    margin: 0 200px;
+    background-color: #f8f4f4;
+    padding: 90px 0;
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+.flower-icon{
+    width: 400px;
+    text-align: center;
+    margin-bottom: 0;
+}
+h4{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #9e9b9b;
+    font-weight: normal;
+}
+/* The flower second section is done */
+
+.third-section{
+    width: 100%;
+    background-color: #fdeaee;
+}
+.th-ima-control{
+    width: 270px;
+}
+.third-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 280px;
+    padding: 80px 0 ;
+}
+.left-text{
+    text-align: center;
+}
+.th-title{
+    font-size: 30px;
+    color: #343434;
+    margin-bottom: 0;
+}
+.th-pra{
+    font-size: 15px;
+    color: #837f7f;
+    margin-top: 20px;
+}
+/* The flower optional section is done */
+
+.optional-section-op{
+    margin: 0 200px;
+    margin-bottom: 100px;
+}
+.optional-th-image{
+    display: flex;
+    justify-content: space-between;
+}
+.op-control-images{ 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
+}
+.bp-text{
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.bp-text p{
+    font-size: 15px;
+    color: #9e9b9b;
+}
+/* The flower third section is done */
+
+.fu-head-text{
+    text-align: center;
+    margin-top: 100px;
+}
+.fu-head-title{
+    font-size: 30px;
+    color: #2f2f2f;
+    margin-bottom: 0;
+}
+.fu-head-pra{
+    font-size: 15px;
+    color: #837f7f;
+    line-height: 3ch;
+    margin-top: 20px;
+}
+.fu-flower-image{
+    display: flex;
+    margin: 0px 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+}
+.fu-ins-img-controls{
+    width: 270px;
+}
+/* The  four section is done */
+
+.flower-form{
+    background-image: url('./Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    text-align: center;
+}
+.five-flower-section{
+    margin: 0px 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.flower-form-style{
+    padding-top: 100px;
+}
+.flower-form-title{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+.flower-form-pra{
+    font-size: 15px;
+    margin-top: 20px;
+    color: #837f7f;
+    margin-bottom: 0;
+}
+[type="text"]{
+    width: 40%;
+    padding: 15px 0;
+    font-size: 13px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    margin-top: 40px;
+}
+[type="submit"]{
+    padding: 12px 20px;
+    background-color: #E55473;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+/* the five section is done  */
+
+.footer-end{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    color: white;
+    padding: 120px 0;
+}
+.span-color{
+    color: #E55473;
+}
+.footer-title{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.footer-pra{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 0;
+    color: #b2a8a8;
+}
+.foot-small{
+    font-size: 13px;
+    margin-top: 25px;
+    color: #837f7f;
+}
+/* how are you */
+
